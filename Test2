@@ -12,11 +12,5 @@ output the messages to the user
 end
 """
 
-""" PSUDOCODE
-create list
-capture input
-append numbers to list
-sort the list, then calculate outputs needed
-print message to user
-"""
+
 
