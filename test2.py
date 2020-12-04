@@ -1,4 +1,3 @@
-
 """ PLAIN ENGLISH
 start
 create a list to store the number of grades.
@@ -19,4 +18,3 @@ append numbers to list
 sort the list, then calculate outputs needed
 print message to user
 """
-
